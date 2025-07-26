@@ -98,7 +98,7 @@
         };
 
         layer_4 {
-            display-name = "ACCENT"
+            display-name = "ACCENT";
             bindings = <
 &acgrv  &trans  &trans  &trans  &trans  &trans                    &trans          &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
