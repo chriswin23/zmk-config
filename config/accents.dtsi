@@ -2,6 +2,7 @@
 *
 * Copyright (c) 2022 Rafael Romão
 * SPDX-License-Identifier: MIT
+* Modified version for Linux, adding RALT as a command key in my hyprland config
 *
 */
 
