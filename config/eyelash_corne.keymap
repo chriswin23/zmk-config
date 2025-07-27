@@ -101,7 +101,7 @@
             bindings = <
 &ac_agrv    &ac_acir    &trans      &ac_auml    &ac_icir    &trans                      &trans              &trans      &trans      &kp X       &kp CARET   &trans      &kp BSPC
 &ac_egrv    &ac_ecir    &ac_eacu    &trans      &ac_ocir    &ac_ouml            &trans  &trans  &trans      &kp GRAVE   &kp DQT     &kp SQT     &kp Z       &kp TILDE   &trans
-&ac_ugrv    &ac_ucir    &trans      &ac_uuml    &trans      &ac_ccdi    &trans          &trans              &trans      &trans      &trans      &trans      &trans
+&ac_ugrv    &ac_ucir    &trans      &ac_uuml    &trans      &ac_ccdi    &trans          &trans              &trans      &trans      &trans      &trans      &trans      &trans
                                     &trans      &trans      &kp SPACE                                       &trans      &trans      &kp RIGHT_ALT
             >;
         };
