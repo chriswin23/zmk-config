@@ -198,10 +198,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   ACCENT:
   - {t: '&ac_agrv_l', s: '&ac_agrv_u'}
+  - {t: '&ac_acir_l', s: '&ac_acir_u'}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '&ac_auml_l', s: '&ac_auml_u'}
+  - {t: '&ac_icir_l', s: '&ac_icir_u'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -210,12 +210,12 @@ layers:
   - ^
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: '&ac_egrv_l', s: '&ac_egrv_u'}
+  - {t: '&ac_ecir_l', s: '&ac_ecir_u'}
+  - {t: '&ac_eacu_l', s: '&ac_eacu_u'}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '&ac_ocir_l', s: '&ac_ocir_u'}
+  - {t: '&ac_ouml_l', s: '&ac_ouml_u'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -225,12 +225,12 @@ layers:
   - Z
   - '~'
   - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '&ac_ugrv_l', s: '&ac_ugrv_u'}
+  - {t: '&ac_ucir_l', s: '&ac_ucir_u'}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '&ac_uuml_l', s: '&ac_uuml_u'}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '&ac_ccdi'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
