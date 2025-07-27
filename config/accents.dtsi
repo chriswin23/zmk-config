@@ -63,7 +63,6 @@
         ACCENTED_KEY(icir, "î", "Î", "îÎ", I, E)
         ACCENTED_KEY(oacu, "ó", "Ó", "óÓ", O, E)
         ACCENTED_KEY(otil, "õ", "Õ", "õÕ", O, N)
-        ACCENTED_KEY(ocir, "ô", "Ô", "ôÔ", O, N)
         ACCENTED_KEY(ouml, "ö", "Ö", "öÖ", O, N)
         ACCENTED_KEY(ocir, "ô", "Ô", "ôÔ", O, I)
         ACCENTED_KEY(uacu, "ú", "Ú", "úÚ", U, E)
