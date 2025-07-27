@@ -55,7 +55,6 @@
         ACCENTED_KEY(atil, "ã", "Ã", "ãÃ", A, N)
         ACCENTED_KEY(acir, "â", "Â", "âÂ", A, N)
         ACCENTED_KEY(auml, "ä", "Ä", "äÄ", A, N)
-        ACCENTED_KEY(acir, "â", "Â", "âÂ", A, I)
         ACCENTED_KEY(eacu, "é", "É", "éÉ", E, E)
         ACCENTED_KEY(ecir, "ê", "Ê", "êÊ", E, I)
         ACCENTED_KEY(egrv, "è", "È", "èÈ", E, I)
