@@ -18,9 +18,9 @@
             compatible = "zmk,behavior-macro"; \
             #binding-cells = <0>; \
             bindings \
-                = <&macro_press &kp LALT> \
+                = <&macro_press &kp RALT> \
                 , <&macro_tap &kp DEAD_KEY> \
-                , <&macro_release &kp LALT> \
+                , <&macro_release &kp RALT> \
                 , <&macro_tap &kp KEY> \
                 ; \
         }; \
@@ -32,9 +32,9 @@
             #binding-cells = <0>; \
             bindings \
                 = <&macro_release &kp LSHFT> \
-                , <&macro_press &kp LALT> \
+                , <&macro_press &kp RALT> \
                 , <&macro_tap &kp DEAD_KEY> \
-                , <&macro_release &kp LALT> \
+                , <&macro_release &kp RALT> \
                 , <&macro_press &kp LSHFT> \
                 , <&macro_tap &kp KEY> \
                 , <&macro_release &kp LSHFT> \
@@ -53,14 +53,23 @@
         ACCENTED_KEY(agrv, "à", "À", "àÀ", A, GRAVE)
         ACCENTED_KEY(aacu, "á", "Á", "áÁ", A, E)
         ACCENTED_KEY(atil, "ã", "Ã", "ãÃ", A, N)
+        ACCENTED_KEY(acir, "â", "Â", "âÂ", A, N)
+        ACCENTED_KEY(auml, "ä", "Ä", "äÄ", A, N)
         ACCENTED_KEY(acir, "â", "Â", "âÂ", A, I)
         ACCENTED_KEY(eacu, "é", "É", "éÉ", E, E)
         ACCENTED_KEY(ecir, "ê", "Ê", "êÊ", E, I)
+        ACCENTED_KEY(egrv, "è", "È", "èÈ", E, I)
         ACCENTED_KEY(iacu, "í", "Í", "íÍ", I, E)
+        ACCENTED_KEY(icir, "î", "Î", "îÎ", I, E)
         ACCENTED_KEY(oacu, "ó", "Ó", "óÓ", O, E)
         ACCENTED_KEY(otil, "õ", "Õ", "õÕ", O, N)
+        ACCENTED_KEY(ocir, "ô", "Ô", "ôÔ", O, N)
+        ACCENTED_KEY(ouml, "ö", "Ö", "öÖ", O, N)
         ACCENTED_KEY(ocir, "ô", "Ô", "ôÔ", O, I)
         ACCENTED_KEY(uacu, "ú", "Ú", "úÚ", U, E)
+        ACCENTED_KEY(ugrv, "ù", "Ù", "ùÙ", U, E)
+        ACCENTED_KEY(uuml, "ü", "Ü", "üÜ", U, E)
+        ACCENTED_KEY(ucir, "û", "Û", "ûÛ", U, E)
 
         ac_ccdi: ac_ccdi {
             wait-ms = <0>;
@@ -69,9 +78,9 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings
-                = <&macro_press &kp LALT>
+                = <&macro_press &kp RALT>
                 , <&macro_tap &kp C>
-                , <&macro_release &kp LALT>
+                , <&macro_release &kp RALT>
                 ;
         };
     };
